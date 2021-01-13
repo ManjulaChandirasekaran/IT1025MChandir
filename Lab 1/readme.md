@@ -5,7 +5,7 @@
 * Free event
 * Lunch will be served
 
---- Provide us with vegan, vegetarian request at the time of inquiry
+   Provide us with vegan, vegetarian request at the time of inquiry
 
 * Child care provided
 * Unordered sub-list. 
