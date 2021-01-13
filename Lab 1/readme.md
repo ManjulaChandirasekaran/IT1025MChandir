@@ -1,7 +1,7 @@
 
 # Voice your opinion about this important issue
 
-# Community dialogue circles on our changing community
+### Community dialogue circles on our changing community
 * Free event
 * Lunch will be served
 * Child care provided
