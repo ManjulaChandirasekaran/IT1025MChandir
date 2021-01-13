@@ -4,11 +4,8 @@
 ### Community dialogue circles on our changing community
 * Free event
 * Lunch will be served
-
-   * Provide us with vegan, vegetarian request at the time of inquiry
-
-* Child care provided
-* Unordered sub-list. 
+   * Let us know about your dietary preferences 
+* Child care provided* 
 
 # Saturday November 5th, 2021
 ## from 9am-5pm
