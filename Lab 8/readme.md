@@ -6,13 +6,18 @@ Explain the goal for this lab
 
 Create a new blank diagram (ignore message boxes to upgrade) and create a flowchart for a computer program that
 asks for a number and then
-* prints "Big" if the number is greater than 10
-* prints "Small" if the number is less than 10.
-Use the following resource (or one of your choice) as a guide: https://www.tutorialspoint.com/programming_methodologies/programming_methodologies_flowchart_elements.htm Add a textbox to the chart with your name
-
+Multiplies the number by 10
+Subtracts 25 from the answer
+if that answer is < 0
+Displays answer is negative number
+Else
+Displays answer is positive number or zero
+https://www.tutorialspoint.com/programming_methodologies/programming_methodologies_flowchart_elements.htm 
+Add a textbox to the chart with your name
 Download your chart as a jpg file and name it: DecisionFlowchart and upload the file to your GitHub lab folder
-
 Share your experience using Lucidchart in a paragraph (3-4 lines)
+
+
 
 # Networking
 ## Intro to Networking
